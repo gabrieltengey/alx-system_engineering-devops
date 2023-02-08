@@ -1,1 +1,1 @@
-How to check current working directory \n
+Shell basics project
